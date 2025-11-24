@@ -1,0 +1,9 @@
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/SecurityAnalyzer.Api.csproj.AssemblyReference.cache
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/SecurityAnalyzer.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/SecurityAnalyzer.Api.AssemblyInfoInputs.cache
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/SecurityAnalyzer.Api.AssemblyInfo.cs
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/SecurityAnalyzer.Api.csproj.CoreCompileInputs.cache
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/SecurityAnalyzer.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/SecurityAnalyzer.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/Apple/my-projects/code-security-scanner/backend/SecurityAnalyzer.Api/obj/Debug/net10.0/SecurityAnalyzer.Api.sourcelink.json
